@@ -119,6 +119,7 @@ main article {
 
 main article h2 {
     font-size: 36px; /*sets the font size to 36px*/
+    margin-bottom: 20px; /*sets the bottom margin to 20px*/
 }
 
 
