@@ -1,10 +1,11 @@
 # 02-Challenge-CM
 
-## **Desription**
+## Desription
 
 This project involved making changes to an existing website's code to improve its accessiblity and functionality.
+* **The final result can be found here:** [02-Challenge-CM](https://conartisttt.github.io/02-Challenge-CM/)
 
-## **Features**
+## Features
 
 * Source code has semantic HTML elements.
 * HTML elements follow a logical structure.
@@ -18,12 +19,12 @@ This project involved making changes to an existing website's code to improve it
 
 ![The Horiseon wepbage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./Assets/images/01-html-css-git-homework-demo.png)
 
-## **Technologies Used**
+## Technologies Used
 
 * HTML
 * CSS
 
-## **Credits**
+## Credits
 
 * Original website design and code provided by edX Boot Camps LLC
 * Changes made by Conner Martin
