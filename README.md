@@ -2,9 +2,9 @@
 
 ## **Desription**
 
-The goal of this project is to improve an application so that it meets the following criteria:
+This project involved making changes to an existing website's code to improve its accessiblity and functionality.
 
-### **Acceptance Critera:**
+## **Features**
 
 * Source code has semantic HTML elements.
 * HTML elements follow a logical structure.
@@ -12,8 +12,18 @@ The goal of this project is to improve an application so that it meets the follo
 * Heading attributes fall in sequential order.
 * Title element is concise and descriptive.
 * Links all function correctly.
-* CSS selectors and properties are consilidated and organized to follow semantic structure
+* CSS selectors and properties are consilidated and organized to follow semantic structure.
 * CSS file is properly commented.
 * It looks like the image below:
 
 ![The Horiseon wepbage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./Assets/images/01-html-css-git-homework-demo.png)
+
+## **Technologies Used**
+
+* HTML
+* CSS
+
+## **Credits**
+
+* Original website design and code provided by edX Boot Camps LLC
+* Changes made by Conner Martin
