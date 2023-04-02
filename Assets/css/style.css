@@ -109,7 +109,7 @@ main {
     margin-left: 20px;/*sets the margin on the left side to 20px*/
 }
 
-main article {
+main section {
     margin-bottom: 20px;/*sets the margin on the bottom to 20px*/
     padding: 50px; /*sets the padding around to 50px*/
     height: 300px; /*sets the height of each article to 300px*/
@@ -117,7 +117,7 @@ main article {
     background-color: #0072bb; /*sets the background color*/
 }
 
-main article h2 {
+main section h2 {
     font-size: 36px; /*sets the font size to 36px*/
     margin-bottom: 20px; /*sets the bottom margin to 20px*/
 }
